@@ -1,0 +1,20 @@
+package Sample;
+
+public class SamplePrintingProgram {
+
+	public static void main(String[] args) {
+		
+		int age=12;
+		if (age>=18)
+		{
+			System.out.print("You are eligible to vote");
+		}
+		else
+		{
+		    System.out.print("You are not eligible to vote");	
+		}
+		}
+
+	}
+
+
