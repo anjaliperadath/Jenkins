@@ -20,7 +20,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>test.Test</mainClass>
+							<mainClass>Sample.SamplePrintingProgram</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
